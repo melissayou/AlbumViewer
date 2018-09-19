@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AlbumViewer</string>
+
+    <string-array name="album_names">
+        <item>Twentyone</item>
+        <item>v</item>
+        <item>thethrillofitall</item>
+    </string-array>
+
+    <string-array name="artist_names">
+        <item>Adele</item>
+        <item>Maroon 5</item>
+        <item>Sam Smith</item>
+    </string-array>
+
+
+    <string-array name="twentyone">
+        <item>Rolling In The Deep</item>
+        <item>Someone Like You</item>
+        <item>Turning Tables</item>
+    </string-array>
+
+    <string-array name="v">
+        <item>Animals</item>
+        <item>Sugar</item>
+        <item>Maps</item>
+    </string-array>
+
+    <string-array name="thethrillofitall">
+        <item>Too Good at Goodbyes</item>
+        <item>Say It First</item>
+        <item>One Last Song</item>
+    </string-array>
+
+
+</resources>
